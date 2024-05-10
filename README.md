@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning Web designing, java, c++ and other programming lang.
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ... timothyoluwatobiloba3@gmail,com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: ...Mr/He
+- ⚡ Fun fact: ... Adventure is a must
 
 <!---
 CrownSmile/CrownSmile is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
